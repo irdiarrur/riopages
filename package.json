@@ -1,10 +1,10 @@
 {
-  "name": "hugolify-template",
+  "name": "hugolify-www",
   "version": "1.15.1",
   "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "repository": "https://github.com/irdiarrur/riopages",
   "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
+    "url": "https://github.com/irdiarrur/riopagesissues"
   },
   "author": {
     "email": "sebousan@gmail.com",
